@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline-style: none;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1 300px;
+    
+}
+
+.container div {
+    padding: 30px;
+    width: 40%;
+    
+}
+
+.container h1 {
+    background-color: rgb(151, 235, 230);
+}
+.container h3 p  {
+    display: inline;
+    background-color: #ffffff;
+
+}
+.container span {
+    line-height: 70px;
+    
+}
+.pag1 img {
+    border-radius: 20px;
+}
